@@ -1,0 +1,39 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0; /* add a background color to make the white text visible */
+}
+
+.over, .navbar.navbar-inverse, .jumbotron, .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.nav.navbar-nav {
+    list-style-type: none; /* remove bullet points */
+    padding: 0; /* remove padding */
+}
+
+.nav.navbar-nav li a {
+    color: #fff;
+    text-decoration: none; /* remove underline */
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+
+.btn.btn-outline-primary.btn-lg {
+    color: #007bff;
+    border-color: #007bff;
+    margin: 10px;
+}
