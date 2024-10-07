@@ -2,7 +2,7 @@
 
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config/database');
-const Unit = require('./unit'); // Import the Unit model
+const Unit = require('./Unit'); // Import the Unit model
 
 const Property = sequelize.define('Property', {
   property_id: {
