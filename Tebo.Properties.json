@@ -1,0 +1,5033 @@
+[
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0037694",
+    "propertyAddress": "11051 JASPER RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "800000",
+        "assessed": "121487"
+      },
+      {
+        "label": "Structure:",
+        "actual": "569700",
+        "assessed": "54760"
+      },
+      {
+        "label": "Land:",
+        "actual": "230300",
+        "assessed": "66727"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0008136",
+    "propertyAddress": "1650 BROADWAY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "874000",
+        "assessed": "253460"
+      },
+      {
+        "label": "Structure:",
+        "actual": "349600",
+        "assessed": "101384"
+      },
+      {
+        "label": "Land:",
+        "actual": "524400",
+        "assessed": "152076"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0114284",
+    "propertyAddress": "0 JASPER RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1033",
+        "assessed": "273"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "1033",
+        "assessed": "273"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0114285",
+    "propertyAddress": "0 JASPER RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "10500",
+        "assessed": "2772"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "10500",
+        "assessed": "2772"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0051629",
+    "propertyAddress": "3051 LOGIC DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "475300",
+        "assessed": "137837"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "475300",
+        "assessed": "137837"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0100706",
+    "propertyAddress": "640 ASPEN RIDGE DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "434370",
+        "assessed": "125967"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "434370",
+        "assessed": "125967"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0052339",
+    "propertyAddress": "0 JASPER RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "50000",
+        "assessed": "14500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "50000",
+        "assessed": "14500"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0041746",
+    "propertyAddress": "1241 KIMBARK ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1000000",
+        "assessed": "290000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "730000",
+        "assessed": "211700"
+      },
+      {
+        "label": "Land:",
+        "actual": "270000",
+        "assessed": "78300"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0129261",
+    "propertyAddress": "11500 EAGLE SPRINGS TRL",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4250000",
+        "assessed": "284751"
+      },
+      {
+        "label": "Structure:",
+        "actual": "3971500",
+        "assessed": "266091"
+      },
+      {
+        "label": "Land:",
+        "actual": "278500",
+        "assessed": "18660"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0512564",
+    "propertyAddress": "1632 BROADWAY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "5700000",
+        "assessed": "1653000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "4162500",
+        "assessed": "1207125"
+      },
+      {
+        "label": "Land:",
+        "actual": "1537500",
+        "assessed": "445875"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0000787",
+    "propertyAddress": "1611 CANYON BLVD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "3000000",
+        "assessed": "870000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "347000",
+        "assessed": "100630"
+      },
+      {
+        "label": "Land:",
+        "actual": "2653000",
+        "assessed": "769370"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0001557",
+    "propertyAddress": "2840 28TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1750000",
+        "assessed": "507500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "350000",
+        "assessed": "101500"
+      },
+      {
+        "label": "Land:",
+        "actual": "1400000",
+        "assessed": "406000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0001836",
+    "propertyAddress": "1111 SPRUCE ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "7100000",
+        "assessed": "2059000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "4959500",
+        "assessed": "1438255"
+      },
+      {
+        "label": "Land:",
+        "actual": "2140500",
+        "assessed": "620745"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0003894",
+    "propertyAddress": "1831 PEARL ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1800000",
+        "assessed": "522000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "800000",
+        "assessed": "232000"
+      },
+      {
+        "label": "Land:",
+        "actual": "1000000",
+        "assessed": "290000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0005271",
+    "propertyAddress": "1629 CANYON BLVD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "850000",
+        "assessed": "246500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "200000",
+        "assessed": "58000"
+      },
+      {
+        "label": "Land:",
+        "actual": "650000",
+        "assessed": "188500"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0006392",
+    "propertyAddress": "2525 BROADWAY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1200000",
+        "assessed": "338411"
+      },
+      {
+        "label": "Structure:",
+        "actual": "300000",
+        "assessed": "82986"
+      },
+      {
+        "label": "Land:",
+        "actual": "900000",
+        "assessed": "255425"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0005941",
+    "propertyAddress": "2100 PEARL ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1850000",
+        "assessed": "536500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "450000",
+        "assessed": "130500"
+      },
+      {
+        "label": "Land:",
+        "actual": "1400000",
+        "assessed": "406000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0008154",
+    "propertyAddress": "1622 BROADWAY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1380000",
+        "assessed": "400200"
+      },
+      {
+        "label": "Structure:",
+        "actual": "552000",
+        "assessed": "160080"
+      },
+      {
+        "label": "Land:",
+        "actual": "828000",
+        "assessed": "240120"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0008156",
+    "propertyAddress": "1600 BROADWAY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1000000",
+        "assessed": "290000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "250000",
+        "assessed": "72500"
+      },
+      {
+        "label": "Land:",
+        "actual": "750000",
+        "assessed": "217500"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0008354",
+    "propertyAddress": "2690 28TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4220000",
+        "assessed": "1223800"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1660000",
+        "assessed": "481400"
+      },
+      {
+        "label": "Land:",
+        "actual": "2560000",
+        "assessed": "742400"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0009332",
+    "propertyAddress": "2100 BROADWAY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2000000",
+        "assessed": "580000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "900000",
+        "assessed": "261000"
+      },
+      {
+        "label": "Land:",
+        "actual": "1100000",
+        "assessed": "319000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0009301",
+    "propertyAddress": "1222 PEARL ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4500000",
+        "assessed": "1305000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2400000",
+        "assessed": "696000"
+      },
+      {
+        "label": "Land:",
+        "actual": "2100000",
+        "assessed": "609000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0014931",
+    "propertyAddress": "5151 ARAPAHOE AVE",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "3900000",
+        "assessed": "1131000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2730000",
+        "assessed": "791700"
+      },
+      {
+        "label": "Land:",
+        "actual": "1170000",
+        "assessed": "339300"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0015822",
+    "propertyAddress": "3200 VALMONT RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "3900000",
+        "assessed": "1131000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1046100",
+        "assessed": "303369"
+      },
+      {
+        "label": "Land:",
+        "actual": "2853900",
+        "assessed": "827631"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0021444",
+    "propertyAddress": "300 W SOUTH BOULDER RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1300000",
+        "assessed": "377000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "427500",
+        "assessed": "123975"
+      },
+      {
+        "label": "Land:",
+        "actual": "872500",
+        "assessed": "253025"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0033432",
+    "propertyAddress": "2727 VALMONT RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "11900",
+        "assessed": "3451"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "11900",
+        "assessed": "3451"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0033254",
+    "propertyAddress": "3033 28TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2113000",
+        "assessed": "612770"
+      },
+      {
+        "label": "Structure:",
+        "actual": "211300",
+        "assessed": "61277"
+      },
+      {
+        "label": "Land:",
+        "actual": "1901700",
+        "assessed": "551493"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0035952",
+    "propertyAddress": "5753 ARAPAHOE AVE",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "820000",
+        "assessed": "237800"
+      },
+      {
+        "label": "Structure:",
+        "actual": "400000",
+        "assessed": "116000"
+      },
+      {
+        "label": "Land:",
+        "actual": "420000",
+        "assessed": "121800"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0038673",
+    "propertyAddress": "4840 N 63RD ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1350000",
+        "assessed": "391500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "945000",
+        "assessed": "274050"
+      },
+      {
+        "label": "Land:",
+        "actual": "405000",
+        "assessed": "117450"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0040140",
+    "propertyAddress": "61 BOWEN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "840000",
+        "assessed": "243600"
+      },
+      {
+        "label": "Structure:",
+        "actual": "640000",
+        "assessed": "185600"
+      },
+      {
+        "label": "Land:",
+        "actual": "200000",
+        "assessed": "58000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0048572",
+    "propertyAddress": "733 KEN PRATT BLVD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "468500",
+        "assessed": "31390"
+      },
+      {
+        "label": "Structure:",
+        "actual": "46850",
+        "assessed": "3139"
+      },
+      {
+        "label": "Land:",
+        "actual": "421650",
+        "assessed": "28251"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0048746",
+    "propertyAddress": "111 S MAIN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1680000",
+        "assessed": "487200"
+      },
+      {
+        "label": "Structure:",
+        "actual": "680000",
+        "assessed": "197200"
+      },
+      {
+        "label": "Land:",
+        "actual": "1000000",
+        "assessed": "290000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0048743",
+    "propertyAddress": "45 S MAIN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1250000",
+        "assessed": "362500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "250000",
+        "assessed": "72500"
+      },
+      {
+        "label": "Land:",
+        "actual": "1000000",
+        "assessed": "290000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0049055",
+    "propertyAddress": "417 HWY 66",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "485500",
+        "assessed": "140795"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "485500",
+        "assessed": "140795"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0049056",
+    "propertyAddress": "409 HWY 66",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "523600",
+        "assessed": "151844"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "523600",
+        "assessed": "151844"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0049737",
+    "propertyAddress": "801 KEN PRATT BLVD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "400000",
+        "assessed": "26800"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "400000",
+        "assessed": "26800"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0049777",
+    "propertyAddress": "821 KEN PRATT BLVD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1000000",
+        "assessed": "290000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "435200",
+        "assessed": "126208"
+      },
+      {
+        "label": "Land:",
+        "actual": "564800",
+        "assessed": "163792"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0049805",
+    "propertyAddress": "725 KEN PRATT BLVD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "500000",
+        "assessed": "33500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "500000",
+        "assessed": "33500"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0051804",
+    "propertyAddress": "12625 N 107TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "800000",
+        "assessed": "232000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "10000",
+        "assessed": "2900"
+      },
+      {
+        "label": "Land:",
+        "actual": "790000",
+        "assessed": "229100"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0049814",
+    "propertyAddress": "41 S MAIN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "500000",
+        "assessed": "145000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "100000",
+        "assessed": "29000"
+      },
+      {
+        "label": "Land:",
+        "actual": "400000",
+        "assessed": "116000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0054572",
+    "propertyAddress": "4602 HIGHLAND DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1473900",
+        "assessed": "252867"
+      },
+      {
+        "label": "Structure:",
+        "actual": "569900",
+        "assessed": "95450"
+      },
+      {
+        "label": "Land:",
+        "actual": "904000",
+        "assessed": "157417"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0054853",
+    "propertyAddress": "12591 JAY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "559700",
+        "assessed": "37499"
+      },
+      {
+        "label": "Structure:",
+        "actual": "329800",
+        "assessed": "22096"
+      },
+      {
+        "label": "Land:",
+        "actual": "229900",
+        "assessed": "15403"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0054855",
+    "propertyAddress": "12657 JAY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "859300",
+        "assessed": "57573"
+      },
+      {
+        "label": "Structure:",
+        "actual": "524700",
+        "assessed": "35155"
+      },
+      {
+        "label": "Land:",
+        "actual": "334600",
+        "assessed": "22418"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0055810",
+    "propertyAddress": "337 MAIN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "450000",
+        "assessed": "130500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "275000",
+        "assessed": "79750"
+      },
+      {
+        "label": "Land:",
+        "actual": "175000",
+        "assessed": "50750"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0055812",
+    "propertyAddress": "341 MAIN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "383800",
+        "assessed": "111302"
+      },
+      {
+        "label": "Structure:",
+        "actual": "135300",
+        "assessed": "39237"
+      },
+      {
+        "label": "Land:",
+        "actual": "248500",
+        "assessed": "72065"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0055813",
+    "propertyAddress": "345 MAIN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "523300",
+        "assessed": "151757"
+      },
+      {
+        "label": "Structure:",
+        "actual": "274800",
+        "assessed": "79692"
+      },
+      {
+        "label": "Land:",
+        "actual": "248500",
+        "assessed": "72065"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0066435",
+    "propertyAddress": "4820 N 63RD ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2650000",
+        "assessed": "768500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2180000",
+        "assessed": "632200"
+      },
+      {
+        "label": "Land:",
+        "actual": "470000",
+        "assessed": "136300"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0066571",
+    "propertyAddress": "800 S TERRY ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1000",
+        "assessed": "290"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "1000",
+        "assessed": "290"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0068581",
+    "propertyAddress": "101 S PEAK TO PEAK HWY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "350000",
+        "assessed": "101500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "100000",
+        "assessed": "29000"
+      },
+      {
+        "label": "Land:",
+        "actual": "250000",
+        "assessed": "72500"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0069297",
+    "propertyAddress": "2633 30TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2560000",
+        "assessed": "742400"
+      },
+      {
+        "label": "Structure:",
+        "actual": "494600",
+        "assessed": "143434"
+      },
+      {
+        "label": "Land:",
+        "actual": "2065400",
+        "assessed": "598966"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0075767",
+    "propertyAddress": "3273 28TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "3150000",
+        "assessed": "913500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1207400",
+        "assessed": "350146"
+      },
+      {
+        "label": "Land:",
+        "actual": "1942600",
+        "assessed": "563354"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0078148",
+    "propertyAddress": "1255 KIMBARK ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "195000",
+        "assessed": "56550"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "195000",
+        "assessed": "56550"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0075713",
+    "propertyAddress": "2880 DIAGONAL HWY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2000000",
+        "assessed": "580000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "251000",
+        "assessed": "72790"
+      },
+      {
+        "label": "Land:",
+        "actual": "1749000",
+        "assessed": "507210"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0084713",
+    "propertyAddress": "3985 WONDERLAND HILL AVE",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1250000",
+        "assessed": "362500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "286600",
+        "assessed": "83114"
+      },
+      {
+        "label": "Land:",
+        "actual": "963400",
+        "assessed": "279386"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0100707",
+    "propertyAddress": "620 ASPEN RIDGE DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "432055",
+        "assessed": "125296"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "432055",
+        "assessed": "125296"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0099226",
+    "propertyAddress": "3255 28TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "3910000",
+        "assessed": "1133900"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1423300",
+        "assessed": "412757"
+      },
+      {
+        "label": "Land:",
+        "actual": "2486700",
+        "assessed": "721143"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0100713",
+    "propertyAddress": "555 ASPEN RIDGE DR A-F",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "7500000",
+        "assessed": "2175000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "5700000",
+        "assessed": "1653000"
+      },
+      {
+        "label": "Land:",
+        "actual": "1800000",
+        "assessed": "522000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0103778",
+    "propertyAddress": "4287 EAST COUNTY LINE RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1050000",
+        "assessed": "70349"
+      },
+      {
+        "label": "Structure:",
+        "actual": "654100",
+        "assessed": "43824"
+      },
+      {
+        "label": "Land:",
+        "actual": "395900",
+        "assessed": "26525"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0042389",
+    "propertyAddress": "1236 MAIN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "658200",
+        "assessed": "123621"
+      },
+      {
+        "label": "Structure:",
+        "actual": "326900",
+        "assessed": "72456"
+      },
+      {
+        "label": "Land:",
+        "actual": "331300",
+        "assessed": "51165"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0120181",
+    "propertyAddress": "1285 FORDHAM RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "6000000",
+        "assessed": "1740000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "4200000",
+        "assessed": "1218000"
+      },
+      {
+        "label": "Land:",
+        "actual": "1800000",
+        "assessed": "522000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0120182",
+    "propertyAddress": "9012 N 87TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1000",
+        "assessed": "290"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "1000",
+        "assessed": "290"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0142632",
+    "propertyAddress": "3336 ARAPAHOE RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1491500",
+        "assessed": "432535"
+      },
+      {
+        "label": "Structure:",
+        "actual": "879300",
+        "assessed": "254997"
+      },
+      {
+        "label": "Land:",
+        "actual": "612200",
+        "assessed": "177538"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0142634",
+    "propertyAddress": "0 ARAPAHOE RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "445000",
+        "assessed": "129050"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "445000",
+        "assessed": "129050"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0041177",
+    "propertyAddress": "1 S MAIN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "983899",
+        "assessed": "285331"
+      },
+      {
+        "label": "Structure:",
+        "actual": "248499",
+        "assessed": "72065"
+      },
+      {
+        "label": "Land:",
+        "actual": "735400",
+        "assessed": "213266"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0510591",
+    "propertyAddress": "10675 UTE HWY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1200000",
+        "assessed": "348000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "1200000",
+        "assessed": "348000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0508722",
+    "propertyAddress": "1700 HOVER ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2323600",
+        "assessed": "673845"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1183600",
+        "assessed": "343245"
+      },
+      {
+        "label": "Land:",
+        "actual": "1140000",
+        "assessed": "330600"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0515683",
+    "propertyAddress": "2775 VALMONT RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2750000",
+        "assessed": "797500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2090000",
+        "assessed": "606100"
+      },
+      {
+        "label": "Land:",
+        "actual": "660000",
+        "assessed": "191400"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0511258",
+    "propertyAddress": "3285 30TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4100000",
+        "assessed": "1189000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2460600",
+        "assessed": "713574"
+      },
+      {
+        "label": "Land:",
+        "actual": "1639400",
+        "assessed": "475426"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0601256",
+    "propertyAddress": "1077 CANYON BLVD 401",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "5800000",
+        "assessed": "388600"
+      },
+      {
+        "label": "Structure:",
+        "actual": "5800000",
+        "assessed": "388600"
+      },
+      {
+        "label": "Land:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0603099",
+    "propertyAddress": "38470 BOULDER CANYON DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2279000",
+        "assessed": "367674"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1103700",
+        "assessed": "202816"
+      },
+      {
+        "label": "Land:",
+        "actual": "1175300",
+        "assessed": "164858"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0603099",
+    "propertyAddress": "38470 BOULDER CANYON DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2279000",
+        "assessed": "367674"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1103700",
+        "assessed": "202816"
+      },
+      {
+        "label": "Land:",
+        "actual": "1175300",
+        "assessed": "164858"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0603099",
+    "propertyAddress": "38470 BOULDER CANYON DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2279000",
+        "assessed": "367674"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1103700",
+        "assessed": "202816"
+      },
+      {
+        "label": "Land:",
+        "actual": "1175300",
+        "assessed": "164858"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0603099",
+    "propertyAddress": "38470 BOULDER CANYON DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2279000",
+        "assessed": "367674"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1103700",
+        "assessed": "202816"
+      },
+      {
+        "label": "Land:",
+        "actual": "1175300",
+        "assessed": "164858"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0603099",
+    "propertyAddress": "38470 BOULDER CANYON DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2279000",
+        "assessed": "367674"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1103700",
+        "assessed": "202816"
+      },
+      {
+        "label": "Land:",
+        "actual": "1175300",
+        "assessed": "164858"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0603099",
+    "propertyAddress": "38470 BOULDER CANYON DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2279000",
+        "assessed": "367674"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1103700",
+        "assessed": "202816"
+      },
+      {
+        "label": "Land:",
+        "actual": "1175300",
+        "assessed": "164858"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606776",
+    "propertyAddress": "1077 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "380000",
+        "assessed": "110200"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "380000",
+        "assessed": "110200"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0603665",
+    "propertyAddress": "20 LAKEVIEW DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "3962600",
+        "assessed": "1149154"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1995200",
+        "assessed": "578608"
+      },
+      {
+        "label": "Land:",
+        "actual": "1967400",
+        "assessed": "570546"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606777",
+    "propertyAddress": "1001 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "380000",
+        "assessed": "110200"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "380000",
+        "assessed": "110200"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0603099",
+    "propertyAddress": "38470 BOULDER CANYON DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2279000",
+        "assessed": "367674"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1103700",
+        "assessed": "202816"
+      },
+      {
+        "label": "Land:",
+        "actual": "1175300",
+        "assessed": "164858"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0603099",
+    "propertyAddress": "38470 BOULDER CANYON DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2279000",
+        "assessed": "367674"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1103700",
+        "assessed": "202816"
+      },
+      {
+        "label": "Land:",
+        "actual": "1175300",
+        "assessed": "164858"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606778",
+    "propertyAddress": "1055 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4166300",
+        "assessed": "1208227"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2931000",
+        "assessed": "849990"
+      },
+      {
+        "label": "Land:",
+        "actual": "1235300",
+        "assessed": "358237"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606778",
+    "propertyAddress": "1055 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4166300",
+        "assessed": "1208227"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2931000",
+        "assessed": "849990"
+      },
+      {
+        "label": "Land:",
+        "actual": "1235300",
+        "assessed": "358237"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606778",
+    "propertyAddress": "1055 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4166300",
+        "assessed": "1208227"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2931000",
+        "assessed": "849990"
+      },
+      {
+        "label": "Land:",
+        "actual": "1235300",
+        "assessed": "358237"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606778",
+    "propertyAddress": "1055 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4166300",
+        "assessed": "1208227"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2931000",
+        "assessed": "849990"
+      },
+      {
+        "label": "Land:",
+        "actual": "1235300",
+        "assessed": "358237"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0051835",
+    "propertyAddress": "10656 PARK RIDGE AVE",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "568700",
+        "assessed": "38103"
+      },
+      {
+        "label": "Structure:",
+        "actual": "470000",
+        "assessed": "31490"
+      },
+      {
+        "label": "Land:",
+        "actual": "98700",
+        "assessed": "6613"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0608022",
+    "propertyAddress": "4545 UTE HWY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1400000",
+        "assessed": "406000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "673400",
+        "assessed": "195286"
+      },
+      {
+        "label": "Land:",
+        "actual": "726600",
+        "assessed": "210714"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606778",
+    "propertyAddress": "1055 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4166300",
+        "assessed": "1208227"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2931000",
+        "assessed": "849990"
+      },
+      {
+        "label": "Land:",
+        "actual": "1235300",
+        "assessed": "358237"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0608022",
+    "propertyAddress": "4545 UTE HWY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1400000",
+        "assessed": "406000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "673400",
+        "assessed": "195286"
+      },
+      {
+        "label": "Land:",
+        "actual": "726600",
+        "assessed": "210714"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606778",
+    "propertyAddress": "1055 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4166300",
+        "assessed": "1208227"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2931000",
+        "assessed": "849990"
+      },
+      {
+        "label": "Land:",
+        "actual": "1235300",
+        "assessed": "358237"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606778",
+    "propertyAddress": "1055 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4166300",
+        "assessed": "1208227"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2931000",
+        "assessed": "849990"
+      },
+      {
+        "label": "Land:",
+        "actual": "1235300",
+        "assessed": "358237"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0616274",
+    "propertyAddress": "1911 BROADWAY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "6000000",
+        "assessed": "1740000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2231200",
+        "assessed": "647048"
+      },
+      {
+        "label": "Land:",
+        "actual": "3768800",
+        "assessed": "1092952"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606778",
+    "propertyAddress": "1055 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4166300",
+        "assessed": "1208227"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2931000",
+        "assessed": "849990"
+      },
+      {
+        "label": "Land:",
+        "actual": "1235300",
+        "assessed": "358237"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0616274",
+    "propertyAddress": "1911 BROADWAY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "6000000",
+        "assessed": "1740000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2231200",
+        "assessed": "647048"
+      },
+      {
+        "label": "Land:",
+        "actual": "3768800",
+        "assessed": "1092952"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0606778",
+    "propertyAddress": "1055 COURTESY RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "4166300",
+        "assessed": "1208227"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2931000",
+        "assessed": "849990"
+      },
+      {
+        "label": "Land:",
+        "actual": "1235300",
+        "assessed": "358237"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0608028",
+    "propertyAddress": "3390 28TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "3003200",
+        "assessed": "870928"
+      },
+      {
+        "label": "Structure:",
+        "actual": "709200",
+        "assessed": "205668"
+      },
+      {
+        "label": "Land:",
+        "actual": "2294000",
+        "assessed": "665260"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0511551",
+    "propertyAddress": "2310 PACE ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1250000",
+        "assessed": "362500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "1250000",
+        "assessed": "362500"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0000786",
+    "propertyAddress": "827 PEARL ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1700000",
+        "assessed": "493000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "219120",
+        "assessed": "63545"
+      },
+      {
+        "label": "Land:",
+        "actual": "1480880",
+        "assessed": "429455"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0007054",
+    "propertyAddress": "3101 28TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "10750000",
+        "assessed": "3117500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "7190000",
+        "assessed": "2085100"
+      },
+      {
+        "label": "Land:",
+        "actual": "3560000",
+        "assessed": "1032400"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0511553",
+    "propertyAddress": "2494 PACE ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1000",
+        "assessed": "290"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "1000",
+        "assessed": "290"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0008114",
+    "propertyAddress": "3141 28TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "3700000",
+        "assessed": "1073000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "2260000",
+        "assessed": "655400"
+      },
+      {
+        "label": "Land:",
+        "actual": "1440000",
+        "assessed": "417600"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0511550",
+    "propertyAddress": "1131 OLYMPIA AVE",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1000000",
+        "assessed": "290000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "1000000",
+        "assessed": "290000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0060001",
+    "propertyAddress": "2960 VALMONT RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1100000",
+        "assessed": "319000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "475000",
+        "assessed": "137750"
+      },
+      {
+        "label": "Land:",
+        "actual": "625000",
+        "assessed": "181250"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0060002",
+    "propertyAddress": "2885 30TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1692000",
+        "assessed": "490680"
+      },
+      {
+        "label": "Structure:",
+        "actual": "792000",
+        "assessed": "229680"
+      },
+      {
+        "label": "Land:",
+        "actual": "900000",
+        "assessed": "261000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0060002",
+    "propertyAddress": "2885 30TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1692000",
+        "assessed": "490680"
+      },
+      {
+        "label": "Structure:",
+        "actual": "792000",
+        "assessed": "229680"
+      },
+      {
+        "label": "Land:",
+        "actual": "900000",
+        "assessed": "261000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0000154",
+    "propertyAddress": "1201 ARAPAHOE AVE",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1100000",
+        "assessed": "319000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "347300",
+        "assessed": "100717"
+      },
+      {
+        "label": "Land:",
+        "actual": "752700",
+        "assessed": "218283"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0002261",
+    "propertyAddress": "1105 SPRUCE ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2750000",
+        "assessed": "797501"
+      },
+      {
+        "label": "Structure:",
+        "actual": "609500",
+        "assessed": "176756"
+      },
+      {
+        "label": "Land:",
+        "actual": "2140500",
+        "assessed": "620745"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0007398",
+    "propertyAddress": "1900 9TH ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "8500000",
+        "assessed": "2465000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "5948300",
+        "assessed": "1725007"
+      },
+      {
+        "label": "Land:",
+        "actual": "2551700",
+        "assessed": "739993"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0043624",
+    "propertyAddress": "1420 MAIN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1265000",
+        "assessed": "366850"
+      },
+      {
+        "label": "Structure:",
+        "actual": "650000",
+        "assessed": "188500"
+      },
+      {
+        "label": "Land:",
+        "actual": "615000",
+        "assessed": "178350"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0081902",
+    "propertyAddress": "24 BIG SPRINGS DR",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "750000",
+        "assessed": "217500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "314000",
+        "assessed": "91060"
+      },
+      {
+        "label": "Land:",
+        "actual": "436000",
+        "assessed": "126440"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0067732",
+    "propertyAddress": "10535 ARAPAHOE RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "850000",
+        "assessed": "56951"
+      },
+      {
+        "label": "Structure:",
+        "actual": "212500",
+        "assessed": "14238"
+      },
+      {
+        "label": "Land:",
+        "actual": "637500",
+        "assessed": "42713"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0509151",
+    "propertyAddress": "1610 MAIN ST",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "2103100",
+        "assessed": "609899"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1375200",
+        "assessed": "398808"
+      },
+      {
+        "label": "Land:",
+        "actual": "727900",
+        "assessed": "211091"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0511539",
+    "propertyAddress": "0 E COUNTY LINE RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "1800000",
+        "assessed": "522000"
+      },
+      {
+        "label": "Structure:",
+        "actual": "0",
+        "assessed": "0"
+      },
+      {
+        "label": "Land:",
+        "actual": "1800000",
+        "assessed": "522000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0607288",
+    "propertyAddress": "400 CENTENNIAL PKWY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "6750000",
+        "assessed": "1957500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "4316200",
+        "assessed": "1251698"
+      },
+      {
+        "label": "Land:",
+        "actual": "2433800",
+        "assessed": "705802"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0607288",
+    "propertyAddress": "400 CENTENNIAL PKWY",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "6750000",
+        "assessed": "1957500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "4316200",
+        "assessed": "1251698"
+      },
+      {
+        "label": "Land:",
+        "actual": "2433800",
+        "assessed": "705802"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0616355",
+    "propertyAddress": "2890 ARAPAHOE AVE",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "3250000",
+        "assessed": "942500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1750000",
+        "assessed": "507500"
+      },
+      {
+        "label": "Land:",
+        "actual": "1500000",
+        "assessed": "435000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0616355",
+    "propertyAddress": "2890 ARAPAHOE AVE",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "3250000",
+        "assessed": "942500"
+      },
+      {
+        "label": "Structure:",
+        "actual": "1750000",
+        "assessed": "507500"
+      },
+      {
+        "label": "Land:",
+        "actual": "1500000",
+        "assessed": "435000"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://maps.boco.solutions/PropertyReports/index1.html?type=all&account=R0512022",
+    "propertyAddress": "7460 NIWOT RD",
+    "accountTableData": [
+      {
+        "label": "Total:",
+        "actual": "464000",
+        "assessed": "31089"
+      },
+      {
+        "label": "Structure:",
+        "actual": "257500",
+        "assessed": "17253"
+      },
+      {
+        "label": "Land:",
+        "actual": "206500",
+        "assessed": "13836"
+      },
+      {
+        "label": "X-Features:",
+        "actual": "0",
+        "assessed": "0"
+      }
+    ],
+    "tenants": [
+      {
+        "name": "Tenant Name",
+        "moveInDate": "YYYY-MM-DD",
+        "rent": 1200,
+        "leaseDuration": 12,
+        "contactInfo": {
+          "email": "tenant@example.com",
+          "phone": "123-456-7890"
+        },
+        "waterSubmeter": {
+          "serialNumber": "WS-123456",
+          "installationDate": "2024-09-01",
+          "lastReading": 150.75
+        }
+      }
+    ]
+  }
+]

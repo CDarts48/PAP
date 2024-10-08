@@ -1,4 +1,4 @@
-const Property = require('./Properties');
+const Property = require('./Property');
 const Tenant = require('./Tenant');
 const Unit = require('./Unit');
 

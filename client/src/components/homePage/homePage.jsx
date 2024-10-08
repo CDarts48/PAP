@@ -31,8 +31,8 @@ const HomePage = () => {
             <div className="container" style={{ paddingLeft: '5px' }}>
                 <a className="btn btn-outline-primary btn-lg" href="/home/tenantlist">Manage Tenants</a>
                 <a className="btn btn-outline-primary btn-lg" href="/home/Tebo/propertylist">Manage Properties</a>
-                <a className="btn btn-outline-primary btn-lg" href="/home/registrationlist">Registrations</a>
-                <a className="btn btn-outline-primary btn-lg" href="/home/loanlist">Loans</a>
+                {/* <a className="btn btn-outline-primary btn-lg" href="/home/maintainance">Registrations</a> */}
+                {/* <a className="btn btn-outline-primary btn-lg" href="/home/loanlist">Loans</a> */}
             </div>
         </div>
     );

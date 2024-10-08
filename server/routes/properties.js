@@ -1,16 +1,16 @@
 const express = require('express');
 const router = express.Router();
-const { Property } = require('../models');
+const Property = require('../models/Property'); // Assuming Property is a Mongoose model
 
 // Get all properties
 router.get('/', async (req, res) => {
-  const properties = await Property.findAll();
+  const properties = await Property.find({});
   res.json(properties);
 });
 
 // Get property by address
 router.get('/:address', async (req, res) => {
-  const property = await Property.findOne({ where: { propertyAddress: req.params.address } });
+  const property = await Property.findOne({ propertyAddress: req.params.address });
   if (property) {
     res.json(property);
   } else {

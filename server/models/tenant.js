@@ -1,97 +1,91 @@
-// tenant.js
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
 
-const { DataTypes } = require('sequelize');
-const sequelize = require('../config/database'); // Assuming you have a configured Sequelize instance
-
-const Tenant = sequelize.define('Tenant', {
+const TenantSchema = new Schema({
   tenant_id: {
-    type: DataTypes.INTEGER,
+    type: Number,
     autoIncrement: true,
     primaryKey: true,
   },
   property_id: {
-    type: DataTypes.INTEGER,
-    allowNull: false,
-    references: {
-      model: 'Property', // Name of the Property table
-      key: 'property_id',
-    },
-    onUpdate: 'CASCADE',
-    onDelete: 'CASCADE',
+    type: Number,
+    required: true,
+    ref: 'Property', // Assuming 'Property' is the name of the other model
   },
   business_name: {
-    type: DataTypes.STRING,
-    allowNull: false,
+    type: String,
+    required: true,
   },
   business_type: {
-    type: DataTypes.STRING, // e.g., 'Retail', 'Office', 'Restaurant', etc.
-    allowNull: false,
+    type: String,
+    required: true,
   },
   contact_person: {
-    type: DataTypes.STRING,
-    allowNull: false,
+    type: String,
+    required: true,
   },
   contact_email: {
-    type: DataTypes.STRING,
-    allowNull: false,
-    validate: {
-      isEmail: true,
-    },
+    type: String,
+    required: true,
+    // Add your email validation here
   },
   contact_phone: {
-    type: DataTypes.STRING,
-    allowNull: false,
+    type: String,
+    required: true,
   },
   lease_start_date: {
-    type: DataTypes.DATE,
-    allowNull: false,
+    type: Date,
+    required: true,
   },
   lease_end_date: {
-    type: DataTypes.DATE,
+    type: Date,
   },
   monthly_rent: {
-    type: DataTypes.DECIMAL(15, 2),
-    allowNull: false,
+    type: Number,
+    required: true,
   },
   annual_rent_increase_percent: {
-    type: DataTypes.FLOAT, // Represents annual rent increase percentage
+    type: Number,
   },
   security_deposit: {
-    type: DataTypes.DECIMAL(15, 2),
+    type: Number,
   },
   lease_status: {
-    type: DataTypes.ENUM('Active', 'Terminated', 'Pending'),
-    defaultValue: 'Active',
+    type: String,
+    enum: ['Active', 'Terminated', 'Pending'],
+    default: 'Active',
   },
   unit_size: {
-    type: DataTypes.DECIMAL(10, 2),
-    allowNull: false,
+    type: Number,
+    required: true,
   },
   size_unit: {
-    type: DataTypes.ENUM('sqft', 'sqm', 'acre', 'hectare'),
-    defaultValue: 'sqft',
+    type: String,
+    enum: ['sqft', 'sqm', 'acre', 'hectare'],
+    default: 'sqft',
   },
   number_of_employees: {
-    type: DataTypes.INTEGER, // Number of employees working in the leased space
+    type: Number,
   },
   payment_history: {
-    type: DataTypes.JSON, // Optional, can store payment details as an array of objects
+    type: Schema.Types.Mixed, // JSON type in Mongoose
   },
   business_hours: {
-    type: DataTypes.JSON, // Stores the business operating hours as a JSON object
+    type: Schema.Types.Mixed, // JSON type in Mongoose
   },
   emergency_contact_name: {
-    type: DataTypes.STRING,
+    type: String,
   },
   emergency_contact_phone: {
-    type: DataTypes.STRING,
+    type: String,
   },
   notes: {
-    type: DataTypes.TEXT, // Any additional notes about the tenant
+    type: String,
   },
 }, {
   timestamps: true,
-  tableName: 'Tenant',
 });
+
+const Tenant = mongoose.model('Tenant', TenantSchema);
 
 module.exports = Tenant;

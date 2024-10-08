@@ -1,0 +1,31 @@
+const Property = require('../models/Property'); // Import the Property model
+
+const propertyResolvers = {
+  Query: {
+    properties: async () => {
+      return await Property.findAll();
+    },
+    property: async (_, { id }) => {
+      return await Property.findByPk(id);
+    },
+    propertyByAddress: async (_, { address }) => {
+      return await Property.findOne({ where: { property_address: address } });
+    },
+  },
+  Mutation: {
+    createProperty: async (_, { propertyInput }) => {
+      return await Property.create(propertyInput);
+    },
+    updateProperty: async (_, { id, propertyInput }) => {
+      await Property.update(propertyInput, { where: { property_id: id } });
+      return await Property.findByPk(id);
+    },
+    deleteProperty: async (_, { id }) => {
+      const property = await Property.findByPk(id);
+      await Property.destroy({ where: { property_id: id } });
+      return property;
+    },
+  },
+};
+
+module.exports = propertyResolvers;

@@ -1,57 +1,44 @@
-// unit.js
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
 
-const { DataTypes } = require('sequelize');
-const sequelize = require('../config/database');
-const Tenant = require('./Tenant');
-
-const Unit = sequelize.define('Unit', {
-  unit_id: {
-    type: DataTypes.INTEGER,
-    autoIncrement: true,
-    primaryKey: true,
-  },
+const UnitSchema = new Schema({
   property_id: {
-    type: DataTypes.INTEGER,
-    allowNull: false,
-    references: {
-      model: 'Property',
-      key: 'property_id',
-    },
+    type: Number,
+    required: true,
   },
   unit_number: {
-    type: DataTypes.STRING,
-    allowNull: false,
+    type: String,
+    required: true,
   },
   rental_price: {
-    type: DataTypes.DECIMAL(15, 2),
+    type: Number,
   },
   size: {
-    type: DataTypes.DECIMAL(10, 2),
+    type: Number,
   },
   size_unit: {
-    type: DataTypes.ENUM('sqft', 'sqm', 'acre', 'hectare'),
-    defaultValue: 'sqft',
+    type: String,
+    enum: ['sqft', 'sqm', 'acre', 'hectare'],
+    default: 'sqft',
   },
   number_of_rooms: {
-    type: DataTypes.INTEGER,
+    type: Number,
   },
   unit_type: {
-    type: DataTypes.ENUM('Apartment', 'Office', 'Retail', 'Storage'),
+    type: String,
+    enum: ['Apartment', 'Office', 'Retail', 'Storage'],
   },
   is_occupied: {
-    type: DataTypes.BOOLEAN,
-    defaultValue: false,
+    type: Boolean,
+    default: false,
   },
   submeter: {
-    type: DataTypes.JSON,
-    allowNull: true,
+    type: Schema.Types.Mixed,
   },
 }, {
   timestamps: true,
 });
 
-// Define association with the Tenant model
-Unit.hasMany(Tenant, { foreignKey: 'unit_id', as: 'tenants' });
-Tenant.belongsTo(Unit, { foreignKey: 'unit_id' });
+const Unit = mongoose.model('Unit', UnitSchema);
 
 module.exports = Unit;
