@@ -1,5 +1,5 @@
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+import mongoose from 'mongoose';
+const { Schema } = mongoose;
 
 const AccountTableDataSchema = new Schema({
   label: String,
@@ -74,4 +74,4 @@ const PropertySchema = new Schema({
 
 const Property = mongoose.model('Property', PropertySchema);
 
-module.exports = Property;
+export default Property;
