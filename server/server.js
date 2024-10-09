@@ -13,8 +13,14 @@ mongoose.connect(process.env.MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
-.then(() => console.log('Database connected successfully'))
-.catch(err => console.error('Database connection error:', err));
+.then(() => {
+  console.log('Database connected successfully');
+  console.log(`Connected to database: ${mongoose.connection.name}`);
+})
+.catch(err => {
+  console.error('Database connection error:', err);
+  process.exit(1); // Exit the process with failure
+});
 
 // Define a simple route
 app.get('/', (req, res) => {
