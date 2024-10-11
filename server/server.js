@@ -1,34 +1,37 @@
-// server.js
+import express from 'express';
+import mongoose from 'mongoose';
+import dotenv from 'dotenv';
+import Property from './models/Property.js'; // Import the Property model
 
-// Import necessary packages
-const express = require('express');
-const mongoose = require('mongoose');
-require('dotenv').config();
+// Load environment variables from .env file
+dotenv.config();
 
-// Create an Express application
 const app = express();
+const PORT = process.env.PORT || 3000;
+
+// Middleware
+app.use(express.json());
 
 // Connect to MongoDB
 mongoose.connect(process.env.MONGODB_URI, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
+  serverSelectionTimeoutMS: 30000, // 30 seconds
+  socketTimeoutMS: 45000 // 45 seconds
 })
-.then(() => {
-  console.log('Database connected successfully');
-  console.log(`Connected to database: ${mongoose.connection.name}`);
-})
-.catch(err => {
-  console.error('Database connection error:', err);
-  process.exit(1); // Exit the process with failure
-});
+  .then(async () => {
+    console.log('Database connected successfully');
+    await Property.createIndexes(); // Ensure indexes are created
+    console.log('Indexes created successfully');
+  })
+  .catch(err => {
+    console.error('Database connection error:', err);
+  });
 
-// Define a simple route
+// Define routes
 app.get('/', (req, res) => {
-  res.send('Hello, World!');
+  res.send('Hello World!');
 });
 
 // Start the server
-const port = process.env.PORT || 3000;
-app.listen(port, () => {
-  console.log(`Server is running on port ${port}`);
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });

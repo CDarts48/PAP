@@ -13,6 +13,7 @@ const PropertySchema = new Schema({
   property_address: {
     type: String,
     required: true,
+    index: true, // Single field index
   },
   property_type: {
     type: String,
@@ -20,6 +21,7 @@ const PropertySchema = new Schema({
   },
   city: {
     type: String,
+    index: true, // Single field index
   },
   state: {
     type: String,
@@ -71,6 +73,9 @@ const PropertySchema = new Schema({
 }, {
   timestamps: true,
 });
+
+// Compound index on city and state
+PropertySchema.index({ city: 1, state: 1 });
 
 const Property = mongoose.model('Property', PropertySchema);
 
