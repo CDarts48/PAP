@@ -1,37 +1,36 @@
+// server.js
 import express from 'express';
-import mongoose from 'mongoose';
+import { MongoClient } from 'mongodb';
 import dotenv from 'dotenv';
-import Property from './models/Property.js'; // Import the Property model
 
-// Load environment variables from .env file
 dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const port = process.env.PORT || 3000;
+const uri = process.env.MONGODB_URI;
+const client = new MongoClient(uri);
 
-// Middleware
-app.use(express.json());
+async function connectToDatabase() {
+  try {
+    await client.connect();
+    console.log('Connected to MongoDB');
 
-// Connect to MongoDB
-mongoose.connect(process.env.MONGODB_URI, {
-  serverSelectionTimeoutMS: 30000, // 30 seconds
-  socketTimeoutMS: 45000 // 45 seconds
-})
-  .then(async () => {
-    console.log('Database connected successfully');
-    await Property.createIndexes(); // Ensure indexes are created
-    console.log('Indexes created successfully');
-  })
-  .catch(err => {
-    console.error('Database connection error:', err);
-  });
+    // Get the database instance
+    const db = client.db(); // Use the default database specified in the URI
+    console.log('Connected to database:', db.databaseName);
 
-// Define routes
+    // List collections in the database
+    const collections = await db.listCollections().toArray();
+    console.log('Collections:', collections.map(col => col.name));
+  } catch (err) {
+    console.error('Failed to connect to MongoDB', err);
+  }
+}
+
 app.get('/', (req, res) => {
   res.send('Hello World!');
 });
 
-// Start the server
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
 });

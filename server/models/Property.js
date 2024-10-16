@@ -1,82 +1,36 @@
-import mongoose from 'mongoose';
-const { Schema } = mongoose;
+import express from 'express';
+import { MongoClient } from 'mongodb';
+import dotenv from 'dotenv';
 
-const AccountTableDataSchema = new Schema({
-  label: String,
-  actual: Number,
-  assessed: Number,
-}, {
-  _id: false, // This line ensures that MongoDB doesn't create an id for subdocuments
+dotenv.config();
+
+const app = express();
+const port = process.env.PORT || 3000;
+const uri = process.env.MONGODB_URI;
+const client = new MongoClient(uri);
+
+async function connectToDatabase() {
+  try {
+    await client.connect();
+    console.log('Connected to MongoDB');
+
+    // Get the database instance
+    const db = client.db(); // Use the default database specified in the URI
+    console.log('Connected to database:', db.databaseName);
+
+    // List collections in the database
+    const collections = await db.listCollections().toArray();
+    console.log('Collections:', collections.map(col => col.name));
+  } catch (err) {
+    console.error('Failed to connect to MongoDB', err);
+  }
+}
+
+app.get('/', (req, res) => {
+  res.send('Hello World!');
 });
 
-const PropertySchema = new Schema({
-  property_address: {
-    type: String,
-    required: true,
-    index: true, // Single field index
-  },
-  property_type: {
-    type: String,
-    enum: ['Residential', 'Commercial', 'Industrial', 'Land'],
-  },
-  city: {
-    type: String,
-    index: true, // Single field index
-  },
-  state: {
-    type: String,
-  },
-  postal_code: {
-    type: String,
-  },
-  country: {
-    type: String,
-  },
-  purchase_price: {
-    type: Number,
-  },
-  purchase_date: {
-    type: Date,
-  },
-  assessed_value: {
-    value: {
-      type: Number,
-    },
-    accountTableData: [AccountTableDataSchema],
-  },
-  assessment_date: {
-    type: Date,
-  },
-  rental_income: {
-    type: Number,
-  },
-  property_size: {
-    type: Number,
-  },
-  size_unit: {
-    type: String,
-    enum: ['sqft', 'sqm', 'acre', 'hectare'],
-    default: 'sqft',
-  },
-  year_built: {
-    type: Number,
-  },
-  description: {
-    type: String,
-  },
-  amenities: {
-    type: Schema.Types.Mixed,
-  },
-  property_manager: {
-    type: String,
-  },
-}, {
-  timestamps: true,
+app.listen(port, () => {
+  console.log(`Server is running on http://localhost:${port}`);
+  connectToDatabase().catch(console.error);
 });
-
-// Compound index on city and state
-PropertySchema.index({ city: 1, state: 1 });
-
-const Property = mongoose.model('Property', PropertySchema);
-
-export default Property;
